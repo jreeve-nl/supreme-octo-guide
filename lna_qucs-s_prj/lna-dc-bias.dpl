@@ -1,0 +1,33 @@
+<Qucs Schematic 0.0.22>
+<Properties>
+  <View=-80,0,887,857,1,0,0>
+  <Grid=10,10,0>
+  <DataSet=lna-dc-bias.dat>
+  <DataDisplay=lna-dc-bias.sch>
+  <OpenDisplay=1>
+  <Script=lna-dc-bias.m>
+  <RunScript=0>
+  <showFrame=0>
+  <FrameText0=Title>
+  <FrameText1=Drawn By:>
+  <FrameText2=Date:>
+  <FrameText3=Revision:>
+</Properties>
+<Symbol>
+</Symbol>
+<Components>
+</Components>
+<Wires>
+</Wires>
+<Diagrams>
+  <Rect 60 354 564 324 3 #c0c0c0 1 00 1 2.5 0.1 3.3 1 0.0022 0.0002 0.00347819 1 2.30844 0.2 3.26854 315 0 225 "" "" "">
+	<"ngspice/i(pr1)" #0000ff 0 3 0 0 0>
+	<"ngspice/v(pr2)" #ff0000 0 3 0 0 1>
+  </Rect>
+  <Rect 60 761 570 291 3 #c0c0c0 1 00 1 2.5 0.1 3.3 1 0 5e-06 2e-05 1 -1 0.5 1 315 0 225 "" "" "">
+	<"ngspice/i(pr4)" #0000ff 0 3 0 0 0>
+	<"ngspice/v(pr3)" #ff0000 0 3 0 0 1>
+  </Rect>
+</Diagrams>
+<Paintings>
+</Paintings>
