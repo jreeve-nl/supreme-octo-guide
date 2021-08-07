@@ -1,0 +1,38 @@
+<Qucs Schematic 0.0.20>
+<Properties>
+  <View=0,-20,1167,875,1,0,20>
+  <Grid=10,10,0>
+  <DataSet=bfp842esd-s-param-input-output-match-l2_VCE_2_5_V_IC_4_0mA.dat>
+  <DataDisplay=bfp842esd-s-param-input-output-match-l2_VCE_2_5_V_IC_4_0mA.sch>
+  <OpenDisplay=1>
+  <Script=bfp842esd-s-param-input-output-match-l2_VCE_2_5_V_IC_4_0mA.m>
+  <RunScript=0>
+  <showFrame=0>
+  <FrameText0=Title>
+  <FrameText1=Drawn By:>
+  <FrameText2=Date:>
+  <FrameText3=Revision:>
+</Properties>
+<Symbol>
+</Symbol>
+<Components>
+</Components>
+<Wires>
+</Wires>
+<Diagrams>
+  <Smith 90 471 411 411 3 #c0c0c0 1 00 1 0 1 1 0 0 5 1.5 1 0 1 1 315 0 225 "" "" "" "">
+	<"GA" #0000ff 0 3 0 0 0>
+	  <Mkr 188.571/180/1.7e+09 383 -439 3 0 0 1>
+	<"N" #ff0000 0 3 0 0 0>
+	<"S[1,1]" #ff00ff 2 3 0 4 0>
+	<"SG" #00ff00 0 3 0 0 0>
+  </Smith>
+  <Smith 690 462 402 402 3 #c0c0c0 1 00 1 0 1 1 0 0 5 1.5 1 0 1 1 315 0 225 "" "" "" "">
+	<"GP" #0000ff 0 3 0 0 0>
+	<"S[2,2]" #ff0000 2 3 0 4 0>
+	  <Mkr 1.7e+09 -29 -363 3 0 0 1>
+	<"SL" #ff5500 0 3 0 0 0>
+  </Smith>
+</Diagrams>
+<Paintings>
+</Paintings>

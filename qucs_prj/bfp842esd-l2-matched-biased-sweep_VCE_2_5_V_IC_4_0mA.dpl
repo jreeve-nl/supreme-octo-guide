@@ -1,0 +1,33 @@
+<Qucs Schematic 0.0.20>
+<Properties>
+  <View=0,0,977,1095,1,0,0>
+  <Grid=10,10,0>
+  <DataSet=bfp842esd-s-param-l2-matched-biased-sweep_VCE_2_5_V_IC_4_0mA.dat>
+  <DataDisplay=bfp842esd-s-param-l2-matched-biased-sweep_VCE_2_5_V_IC_4_0mA.sch>
+  <OpenDisplay=1>
+  <Script=bfp842esd-s-param-l2-matched-biased-sweep_VCE_2_5_V_IC_4_0mA.m>
+  <RunScript=0>
+  <showFrame=0>
+  <FrameText0=Title>
+  <FrameText1=Drawn By:>
+  <FrameText2=Date:>
+  <FrameText3=Revision:>
+</Properties>
+<Symbol>
+</Symbol>
+<Components>
+</Components>
+<Wires>
+</Wires>
+<Diagrams>
+  <Rect 110 564 732 504 3 #c0c0c0 1 00 1 0 1e+09 1e+10 0 -2 0.5 2 1 -80 10 40 315 0 225 "" "" "" "">
+	<"Fdb" #0000ff 0 3 0 0 0>
+	  <Mkr 1.69666e+09 96 -235 3 0 0>
+	<"K" #ff0000 0 3 0 0 0>
+	<"S21dB" #ff00ff 0 3 0 0 1>
+	  <Mkr 1.69666e+09 183 -491 3 0 0>
+	<"S11dB" #00ff00 0 3 0 0 1>
+  </Rect>
+</Diagrams>
+<Paintings>
+</Paintings>
