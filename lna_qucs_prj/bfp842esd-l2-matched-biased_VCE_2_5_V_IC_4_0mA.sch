@@ -2,10 +2,10 @@
 <Properties>
   <View=0,-273,1429,806,1,0,0>
   <Grid=10,10,1>
-  <DataSet=bfp842esd-s-param-l2-matched-biased_VCE_2_5_V_IC_4_0mA.dat>
-  <DataDisplay=bfp842esd-s-param-l2-matched-biased_VCE_2_5_V_IC_4_0mA.dpl>
+  <DataSet=bfp842esd-l2-matched-biased_VCE_2_5_V_IC_4_0mA.dat>
+  <DataDisplay=bfp842esd-l2-matched-biased_VCE_2_5_V_IC_4_0mA.dpl>
   <OpenDisplay=1>
-  <Script=bfp842esd-s-param-l2-matched-biased_VCE_2_5_V_IC_4_0mA.m>
+  <Script=bfp842esd-l2-matched-biased_VCE_2_5_V_IC_4_0mA.m>
   <RunScript=0>
   <showFrame=0>
   <FrameText0=Title>

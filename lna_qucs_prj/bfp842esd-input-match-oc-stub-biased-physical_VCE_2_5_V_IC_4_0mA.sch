@@ -2,10 +2,10 @@
 <Properties>
   <View=0,-705,1774,1296,1,14,1126>
   <Grid=10,10,1>
-  <DataSet=bfp842esd-s-param-input-match-oc-stub-biased-physical_VCE_2_5_V_IC_4_0mA.dat>
-  <DataDisplay=bfp842esd-s-param-input-match-oc-stub-biased-physical_VCE_2_5_V_IC_4_0mA.dpl>
+  <DataSet=bfp842esd-input-match-oc-stub-biased-physical_VCE_2_5_V_IC_4_0mA.dat>
+  <DataDisplay=bfp842esd-input-match-oc-stub-biased-physical_VCE_2_5_V_IC_4_0mA.dpl>
   <OpenDisplay=1>
-  <Script=bfp842esd-s-param-input-match-oc-stub-biased-physical_VCE_2_5_V_IC_4_0mA.m>
+  <Script=bfp842esd-input-match-oc-stub-biased-physical_VCE_2_5_V_IC_4_0mA.m>
   <RunScript=0>
   <showFrame=0>
   <FrameText0=Title>
